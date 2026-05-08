@@ -1,0 +1,5 @@
+arthur;10
+fonseca;20
+ana;12
+itachi;5
+naruto;2
